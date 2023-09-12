@@ -1,0 +1,50 @@
+/*
+*{
+    color: black;
+    text-align: center;
+}
+*/
+body{
+    font-family:'poppins';
+    margin: 0;
+}
+header{
+    height: 100vh;
+    background-image: url('https://www.freepik.com/free-photo/tourist-sitting-phu-sub-lek-viewpoint-sunset-lopburi-thailand_23404855.htm#query=travel%20photo&position=8&from_view=search&track=ais');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    margin: auto;
+}
+.header-section{
+    height: 100%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+.header-quote{
+    padding: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 25px;
+}
+.header-title{
+    font-size: 120px;
+    font-family: 'Roboto';
+    letter-spacing: 2rem;
+    line-height: 0px;
+    font-weight: bolder;
+
+}
+.subtitle{
+    font-size: 30px;
+}
+button{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
